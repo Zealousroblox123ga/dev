@@ -1,0 +1,3 @@
+Command failed: g++ -o "/workspaces/dev/stress_tests/soln.out" "/workspaces/dev/soccer1.py" -std=c++14
+/workspaces/dev/soccer1.py: file not recognized: file format not recognized
+collect2: error: ld returned 1 exit status

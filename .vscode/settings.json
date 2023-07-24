@@ -1,0 +1,4 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "minecraft-auto-reloader.port": 7589
+}
